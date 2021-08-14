@@ -5,5 +5,5 @@ Hackathons are events in which a number of people meet to engage in collaborativ
 ---
 ## Pivot from Palm
 ### 🤔 What is it?
-My recreation of John Conway's Game of Life. I used conditional statements, classes, and various functions to create a working Game of Life that begins with a randomly generated grid of "alive" cells. I completed this project over the course of a week. <br>
-### 📂 [View Project Repository](https://github.com/slingann/CS49-Game-of-Life)
+A website I made with a team of two other hackers coded with HTML, CSS, and JavaScript. Pivot from Palm is a website that encourages site visitors to think about the impacts the palm oil industry has on the environment and endangered animals, such as orangutans. My team (Orangutan Synergy) completed this project over the course of two days, submitted it to Sego Lily Hacks, and won the Best Environmental Hack prize! <br>
+### 📂 [View Project Repository](https://github.com/slingann/Pivot-from-Palm)
