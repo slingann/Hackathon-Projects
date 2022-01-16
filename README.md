@@ -1,6 +1,6 @@
 # Hackathon Projects
 ## Hackathons: What are they?
-Hackathons are events in which a number of people meet to engage in collaborative programming, network with others, and win prizes! During hackathons, participants can work with other hackers or create projects by themselves. Hackathons usually have various tracks or subjects that projects can be submitted to and win prizes for, as well as overall (top 10, 5, 3, etc.) winners. I began participating in hackathons in June of 2021, and have signed up for over eight hackathons as of now.
+Hackathons are events in which a number of people meet to engage in collaborative programming, network with others, and win prizes! During hackathons, participants can work with other hackers or create projects by themselves. Hackathons usually have various tracks or subjects that projects can be submitted to and win prizes for, as well as overall (top 10, 5, 3, etc.) winners. I began participating in hackathons in June of 2021.
 
 ---
 ## Pivot from Palm
